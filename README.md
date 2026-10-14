@@ -1,4 +1,4 @@
-# aws-network-fondation
+# aws-network-foundation
 Demonstrating how computer networking applies to AWs and cloud architecture. 
 
 For this repo, I will build:
